@@ -24,4 +24,4 @@ O projeto é fácil de entender para iniciantes em programação que entendem um
 Entenda melhor acessando o repositório: [MinimaxExample](https://codeberg.org/LeoPato/MinimaxExample)
 
 # Licensa:
-Código distribuido da licensa ![MIT](https://codeberg.org/LeoPato/TicTacToeAI/src/branch/main/LICENSE)
+Código distribuido na licensa [MIT](https://codeberg.org/LeoPato/TicTacToeAI/src/branch/main/LICENSE)
